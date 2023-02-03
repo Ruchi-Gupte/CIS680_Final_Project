@@ -1,6 +1,13 @@
 # MaskRCNN 
-Given Below are the steps to Run MaskRCNN and DeepSort
+Implementation of MaskRCNN from scratch. This includes RPN Network, FasterRCNN and it's extension MaskRCNN. 
 
+## Pipeline
+<img src="MaskRCNN Pipeline.png" width="820">
+
+## Results
+<img src="Results.png" width="520">
+
+Given Below are the steps to Run MaskRCNN and DeepSort
 # To run MaskRCNN
 The three Python Notebooks contain the 3 Blocks of MaskRCNN Network
 - RPNHead
